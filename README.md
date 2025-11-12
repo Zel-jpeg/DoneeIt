@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![DoneeIt Logo](assets/images/splash_logo.png)
+<img src="assets/images/splash_logo.png" alt="DoneeIt Logo" width="200"/>
 
 **Stay Organized. Stay Productive. Stay on Track.**
 
@@ -67,38 +67,6 @@ Manage tasks effectively with:
 - **Responsive Design**: Adapts to different screen sizes
 - **Dark Borders**: Bold neo-brutalist aesthetic
 - **Smooth Animations**: Polished user experience
-
----
-
-## 📱 Screenshots
-
-<table>
-  <tr>
-    <td><img src="screenshots/onboarding_1.png" alt="Onboarding 1" width="200"/></td>
-    <td><img src="screenshots/onboarding_2.png" alt="Onboarding 2" width="200"/></td>
-    <td><img src="screenshots/onboarding_3.png" alt="Onboarding 3" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center"><em>ID Card Intro</em></td>
-    <td align="center"><em>Course Folders</em></td>
-    <td align="center"><em>To-Do List</em></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="screenshots/home_screen.png" alt="Home" width="200"/></td>
-    <td><img src="screenshots/courses_screen.png" alt="Courses" width="200"/></td>
-    <td><img src="screenshots/profile_screen.png" alt="Profile" width="200"/></td>
-    <td><img src="screenshots/settings_screen.png" alt="Settings" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Home Screen</em></td>
-    <td align="center"><em>Courses</em></td>
-    <td align="center"><em>Profile</em></td>
-    <td align="center"><em>Settings</em></td>
-  </tr>
-</table>
 
 ---
 
@@ -337,28 +305,6 @@ Found a bug? Please open an [issue](https://github.com/yourusername/doneeit/issu
 
 ---
 
-## 🔮 Roadmap
-
-### Version 1.1
-- [ ] Push notifications for deadlines
-- [ ] Search functionality
-- [ ] Dark mode theme
-- [ ] Task priority levels
-
-### Version 1.2
-- [ ] Cloud synchronization
-- [ ] Calendar integration
-- [ ] File attachments
-- [ ] Statistics dashboard
-
-### Version 2.0
-- [ ] Collaborative courses
-- [ ] Study timer/Pomodoro
-- [ ] Voice input
-- [ ] Widget support
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -389,9 +335,10 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 | Name | Role | GitHub |
 |------|------|--------|
-| [Member 1] | UI/UX Developer | [@username1](https://github.com/username1) |
-| [Member 2] | Backend Developer | [@username2](https://github.com/username2) |
-| [Member 3] | Integration Lead | [@username3](https://github.com/username3) |
+| Bali-os David Rey | UI/UX Developer & Design Lead | [@davidxx22](https://github.com/davidxx22) |
+| Brion, Lemuel  | UI Developer & Theme Specialist  | [@lemm-m](https://github.com/lemm-m) |
+| Dela Cerna, Jorodz | Backend Developer & Application Architect | [@JordzDC](https://github.com/JordzDC) |
+| Villanueva, Azel | Feature Developer & Integration Lead | [@Zel-jpeg](https://github.com/Zel-jpeg) |
 
 ---
 
@@ -407,7 +354,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/doneeit](https://github.com/yourusername/doneeit)
+- **Project Link**: [https://github.com/Zel-jpeg/doneeit](https://github.com/yourusername/doneeit)
 - **Email**: delacerna.jorodz@dnsc.edu.ph.app
 - **Issues**: [GitHub Issues](https://github.com/yourusername/doneeit/issues)
 

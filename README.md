@@ -140,7 +140,11 @@ lib/
 │   ├── settings/
 │   │   └── settings_screen.dart      # Settings
 │   ├── onboarding/                   # Onboarding screens
-│   └── splash/
+│   |   ├── course_folders_screen.dart
+|   |   ├── id_card_screen.dart
+|   |   ├── onboarding_screen.dart
+|   |   ├── todo_list_screen.dart 
+|   └── splash/
 │       └── splash_screen.dart        # Splash screen
 ├── widgets/
 │   ├── custom_bottom_nav.dart        # Bottom nav bar
